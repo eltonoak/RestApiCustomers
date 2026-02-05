@@ -43,8 +43,8 @@ Antes de começar, certifique-se de ter instalado:
 
 ### 1 Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/customer-api.git
-cd customer-api
+git clone https://github.com/seu-usuario/RestApiCustomers.git
+cd RestApiCustomers
 ````
 ### 2 Restaurar as dependências
 ```bash
