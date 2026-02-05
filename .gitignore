@@ -1,0 +1,11 @@
+# Visual Studio
+.vs/
+
+# .NET
+bin/
+obj/
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
